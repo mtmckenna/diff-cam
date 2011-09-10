@@ -1,6 +1,5 @@
 This program, written in Java/Processing, takes in video from a camera and only displays the differences between successive frames.  The result is a psychedelic-ish video.
 
-Here is an example of the video output: http://www.youtube.com/watch?v=WR7VPgh-YHg
+The frame differencing code was stolen from here: http://processing.org/learning/library/framedifferencing.html.
 
-Note:
-I've only tested this program with the internal iSight camera on a MacBook Pro, but it should work with any default camera, be it internal or USB.
+Here is an example of the output: http://www.youtube.com/watch?v=WR7VPgh-YHg
